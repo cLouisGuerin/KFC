@@ -23,6 +23,7 @@ namespace KFC
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }
